@@ -1,4 +1,3 @@
-# Captcha Solving list of tools
 
 # Detection & Scoring
 * [Cloudflare turnstile](https://nowsecure.nl) - check if you are passing the Cloudflare captcha 
