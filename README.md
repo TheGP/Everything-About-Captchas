@@ -23,8 +23,8 @@ As each service differs with different captchas support, I took the most popular
 
 The easiest way to integrate these services is to use their extensions and watch for their callback on solving.
 
-# Captcha services
-If you like to add a captcha to your project
+# Captcha services / libraries
+If you like to add a captcha to your website / app
 
 ## Services
 * [Google reCaptcha](https://www.google.com/recaptcha/about/) - 10k/month free ([Setup](https://docs.themeum.com/tutor-lms/tutorials/create-recaptcha-keys/), [React](https://www.npmjs.com/package/react-google-recaptcha), [Laravel](https://github.com/josiasmontag/laravel-recaptchav3/), [Another Laravel](https://github.com/anhskohbo/no-captcha))
