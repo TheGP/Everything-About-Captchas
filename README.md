@@ -9,8 +9,8 @@ For improving your score you should use [better fingerprint](https://github.com/
 
 # Captha solvers
 As each service differs with different captchas support, I took the most popular one: reCaptcha v2 1000 captchas to compare the price:
-* [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI. $0.8. Supports Outlook & Arksose captchas.
-* [2captcha](https://2captcha.com/?from=21664443) - human. Libs: JS, GO, PHP, Python, Ruby, C#, Java. $1-2.99 (doesn't work for Outlook)
+* [Capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=U2gREjbK6qnY) - AI. $0.8. Supports Arksose captchas.
+* [2captcha](https://2captcha.com/?from=21664443) - human. Libs: JS, GO, PHP, Python, Ruby, C#, Java. $1-2.99 (doesn't work for Arkose)
 * [CaptchaAI](https://captchaai.com/?from=175374) - AI, fixed price from $13.5/month for 5 captcha treads.
 * [CapMonster](https://capmonster.cloud/) - AI. $0.6
 * [SolveCaptcha](https://solvecaptcha.com?from=434017) - human. Many ready-to-use libs. $1
