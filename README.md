@@ -3,7 +3,10 @@
 * [Cloudflare turnstile](https://nowsecure.nl) - check if you are passing the Cloudflare captcha 
 * [AntCPT reCaptha 3 score](https://antcpt.com/score_detector/) - see you reCaptha v3 score
 * [Appspot reCaptha 3 score](https://recaptcha-demo.appspot.com/recaptcha-v3-request-scores.php) - another scoring tool for reCaptha v3
+## Demos
 * [reCaptcha 2 demo](https://www.google.com/recaptcha/api2/demo) - demo of reCaptcha v2
+* [AWSCaptcha](https://nopecha.com/captcha/awscaptcha) - demo of AWS Captcha
+* [Other demos](https://2captcha.com/demo) - other demos you can find on 2captcha's website
 
 For improving your score you should use [better fingerprint](https://github.com/TheGP/untidetect-tools) or [proxies](https://github.com/TheGP/4g-proxies-providers).
 
