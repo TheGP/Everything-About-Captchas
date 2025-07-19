@@ -1,3 +1,4 @@
+Check out [Untidetect-tools](https://github.com/TheGP/untidetect-tools) & [Proxy Providers](https://github.com/TheGP/Proxy-Providers-List) lists if you missed it!
 
 # Detection & Scoring
 * [Cloudflare turnstile](https://nowsecure.nl) - check if you are passing the Cloudflare captcha 
