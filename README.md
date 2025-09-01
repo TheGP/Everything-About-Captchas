@@ -39,6 +39,7 @@ If you like to add a captcha to your website / app
 * [FriendlyCaptcha](https://friendlycaptcha.com/) - 1k/moth free for non-commercial websites ([React](https://github.com/FriendlyCaptcha/friendly-captcha-react), [Laravel](https://github.com/FriendlyCaptcha/friendly-captcha-laravel), [Others](https://friendlycaptcha.com/integrations/))
 * [Captcha.eu](https://www.captcha.eu/) - GDPR-compliant paid captcha
 * [Arkose](https://www.arkoselabs.com/arkose-matchkey/) - only paid, enterprise
+* [Private Captcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - GDPR-compliant Proof-of-Work captcha service, that can be self-hosted.
 
 ## Libraries
 * [Svg-captcha](https://github.com/produck/svg-captcha) - SVG captcha for Node.js
