@@ -25,6 +25,7 @@ As each service differs with different captchas support, I took the most popular
 * [EzCaptcha](https://dashboard.ez-captcha.com/#/register?inviteCode=oewYJRREtMU) - AI.	$0.6
 * [AntiCaptcha](http://getcaptchasolution.com/gy01xuqodw) - $0.95, AI
 * [HardCaptcha](https://hardcaptcha.com/signup?rc=WOHWELMAWC) - start from $79/month, AI.
+* [Google Recaptcha Solver](https://github.com/sarperavci/GoogleRecaptchaBypass) - Free.
 
 The easiest way to integrate these services is to use their extensions and watch for their callback on solving.
 
