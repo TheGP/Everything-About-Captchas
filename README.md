@@ -26,6 +26,7 @@ As each service differs with different captchas support, I took the most popular
 * [AntiCaptcha](http://getcaptchasolution.com/gy01xuqodw) - $0.95, AI
 * [HardCaptcha](https://hardcaptcha.com/signup?rc=WOHWELMAWC) - start from $79/month, AI.
 * [Google Recaptcha Solver](https://github.com/sarperavci/GoogleRecaptchaBypass) - Free, self-hosted.
+* [NoneCap](https://nonecap.com/) - hCaptcha solver API, hCaptcha only (regular, invisible and enterprise sitekeys). Libs: JS, Python. Has a Chrome extension.
 
 The easiest way to integrate these services is to use their extensions and watch for their callback on solving.
 
