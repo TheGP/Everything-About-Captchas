@@ -41,6 +41,7 @@ If you like to add a captcha to your website / app
 * [Captcha.eu](https://www.captcha.eu/) - GDPR-compliant paid captcha
 * [Arkose](https://www.arkoselabs.com/arkose-matchkey/) - only paid, enterprise
 * [Private Captcha](https://github.com/PrivateCaptcha/PrivateCaptcha) - GDPR-compliant Proof-of-Work captcha service, that can be self-hosted.
+* [FCaptcha](https://github.com/WebDecoy/FCaptcha) - MIT-licensed, self-hosted CAPTCHA built to detect AI agents operating real browsers using behavioral signals and proof of work. Checkbox and invisible modes; Go, Node.js and Python servers. ([Demo](https://webdecoy.com/product/fcaptcha-demo/))
 
 ## Libraries
 * [Svg-captcha](https://github.com/produck/svg-captcha) - SVG captcha for Node.js
